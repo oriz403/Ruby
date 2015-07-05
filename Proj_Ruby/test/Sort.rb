@@ -1,7 +1,7 @@
 #! ruby -Ku
 ##
 # 配列をソートする。
-# @author r_orihara
+# @author oriz403
 # @since 2015/07/03
 ##
 class ArraySort
