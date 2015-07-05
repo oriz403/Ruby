@@ -1,7 +1,7 @@
 #! ruby -Ku
 ##
 # FizzBuzzプログラム。
-# @author r_orihara
+# @author oriz403
 # @since 2015/07/05
 ##
 class FizzBuzz
